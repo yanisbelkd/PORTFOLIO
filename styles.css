@@ -1,21 +1,21 @@
 @font-face {
     font-family: Louis George Cafe;
-    src: url(../assets/Louis\ George\ Cafe.ttf);
+    src: url(Louis_George_Cafe.ttf);
 }
 
 @font-face {
     font-family: Louis George Cafe light;
-    src: url(../assets/Louis\ George\ Cafe\ Light.ttf);
+    src: url(Louis_George_Cafe_Light.ttf);
 }
 
 @font-face {
     font-family: Louis George Cafe bold;
-    src: url(../assets/Louis\ George\ Cafe\ Bold.ttf);
+    src: url(Louis_George_Cafe_Bold.ttf);
 }
 
 @font-face {
     font-family: Louis George Cafe thin italic;
-    src: url(../assets/Louis\ George\ Cafe\ Light\ Italic.ttf);
+    src: url(Louis_George_Cafe_Light_Italic.ttf);
 }
 
 
